@@ -1,2 +1,10 @@
-pyTelegramBotAPI
+Click
+Flask
+gunicorn
+itsdangerous
+Jinja2
+MarkupSafe
+Werkzeug
+flask_cors
+sqlalchemy
 requests
