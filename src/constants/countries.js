@@ -45,6 +45,9 @@ let countries = [
   'Malaysia',
   'Mozambique',
   'Saudi Arabia',
+  'Austria',
+  'Sweden',
+  'Belarus',
 ];
 countries = countries.sort()
 
