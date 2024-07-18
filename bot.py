@@ -2,6 +2,8 @@ from telebot import types
 import telebot
 import requests
 
+from background import keep_alive
+
 URL = 'https://cryptocashgame.netlify.app/'
 TG_TOKEN = '7436582281:AAFJXTwMB0Q-1CubQ1dpkDfNpWn2OsWXFXU'
 BASE_URL = 'https://cryptocash-atm-olympics-af4551b078cc.herokuapp.com'
@@ -50,4 +52,6 @@ Join our official channel to learn more: https://t.me/cryptocash_atm
                 print('e: ',e)
                 pass
 
-bot.infinity_polling()
+if __name__ == '__main__':
+    keep_alive()
+    bot.infinity_polling()
