@@ -8,5 +8,3 @@ Install dependencies with command:
 
 ### `python3 main.py`
 Run server in [localhost:5000](http://localhost:5000). You need to go to /backend directory
-
-Subject to update
