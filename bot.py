@@ -4,7 +4,7 @@ import requests
 
 from background import keep_alive
 
-URL = 'https://cryptocashgame.netlify.app/'
+URL = 'https://e601b8e5.cryptocash-v0.pages.dev/'
 TG_TOKEN = '7436582281:AAFJXTwMB0Q-1CubQ1dpkDfNpWn2OsWXFXU'
 BASE_URL = 'https://cryptocash-atm-olympics-af4551b078cc.herokuapp.com'
 
