@@ -1,4 +1,6 @@
-# CRYPTOCASH BACKEND
+# CRYPTOCASH V0
+
+Check branches, you will find frontend, backend and bot-server. This is a backend branch.
 
 Writed on Python + Flask
 ### install dependencies
